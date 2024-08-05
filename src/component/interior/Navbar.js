@@ -4,7 +4,7 @@ import { LinkContainer } from 'react-router-bootstrap';
 
 const HomePage = () => {
   return (
-    <div className='classsticky'>
+    <div >
       <Navbar bg="primary" variant="dark">
       <LinkContainer to='/'>
             <Navbar.Brand href="/">
