@@ -56,7 +56,7 @@ const ProjectsGalleryPage=() =>{
         </div>
       </div>
       <div className="zoomRoom">
-      <InnerImageZoom src='interior/project1.jpg' />
+      <InnerImageZoom src='https://img.freepik.com/free-photo/modern-living-room-interior-design_23-2150794649.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1722816000&semt=sph' />
       </div>
     </div>
   );

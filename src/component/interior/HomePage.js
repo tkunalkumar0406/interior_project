@@ -14,7 +14,7 @@ const HomePage = () => {
   
     <img
       className="d-block w-100"
-      src="interior/yrwwqpnyb7ys.jpg"
+      src="https://www.decorilla.com/online-decorating/wp-content/uploads/2022/11/Luxury-interior-design-home-designing-1-scaled.jpeg"
       alt="First slide"
       style={{width:'1000px',height:'500px'}}
       
@@ -27,7 +27,7 @@ const HomePage = () => {
   <Carousel.Item>
     <img
       className="d-block w-100"
-      src="interior/pexels-fotoaibe-1571460.jpg"
+      src="https://www.decorpot.com/images/blogimage1361284108interior-designs-for-master-bedroom.jpg"
       alt="Second slide"
       style={{width:'1000px',height:'500px'}}
     />
@@ -40,7 +40,7 @@ const HomePage = () => {
   <Carousel.Item>
     <img
       className="d-block w-100"
-      src="interior/images.jpeg"
+      src="https://asset.skoiy.com/9b80a6f781ff336f/yrwwqpnyb7ys.jpg?w=970&q=90"
       alt="Third slide"
       style={{width:'1000px',height:'500px'}}
     />
@@ -54,7 +54,7 @@ const HomePage = () => {
   
   <img
     className="d-block w-100"
-    src="interior/image6.webp"
+    src="https://media.designcafe.com/wp-content/uploads/2022/07/29185240/industrial-rustic-living-room-in-earthy-tones.jpg"
     alt="First slide"
     style={{width:'1000px',height:'500px'}}
     
@@ -68,7 +68,7 @@ const HomePage = () => {
   
   <img
     className="d-block w-100"
-    src="interior/image5.jpeg"
+    src="https://img.freepik.com/free-photo/modern-living-room-interior-design_23-2150794637.jpgg"
     alt="First slide"
     style={{width:'1000px',height:'500px'}}
     
@@ -82,7 +82,7 @@ const HomePage = () => {
   
   <img
     className="d-block w-100"
-    src="interior/image4.jpg"
+    src="https://media.designcafe.com/wp-content/uploads/2023/01/31151510/contemporary-interior-design-ideas-for-your-home.jpg"
     alt="First slide"
     style={{width:'1000px',height:'500px'}}
     
@@ -96,7 +96,7 @@ const HomePage = () => {
   
   <img
     className="d-block w-100"
-    src="interior/image3.jpg"
+    src="https://www.decorilla.com/online-decorating/wp-content/uploads/2019/06/modern-interior-design-grey-living-room2-scaled.jpeg"
     alt="First slide"
     style={{width:'1000px',height:'500px'}}
     

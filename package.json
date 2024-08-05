@@ -21,7 +21,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "set PORT=3009 && react-scripts start",
+    "start": " react-scripts start",
     "build": "react-scripts build",
     "Predeploy": "npm run build",
     "deploy": "gh-pages -d build",

@@ -8,7 +8,7 @@ const HomePage = () => {
       <Navbar bg="primary" variant="dark">
       <LinkContainer to='/'>
             <Navbar.Brand href="/">
-            <Image className='logo-img-style'src='interior/interior.png' alt="INRT" roundedCircle />
+            <Image className='logo-img-style'src='https://static.vecteezy.com/system/resources/thumbnails/008/058/748/small/interior-logo-design-house-and-furniture-symbol-template-vector.jpg' alt="INRT" roundedCircle />
             <h5 className='logo-text-style'>Interior Website</h5>
             </Navbar.Brand>
       </LinkContainer>

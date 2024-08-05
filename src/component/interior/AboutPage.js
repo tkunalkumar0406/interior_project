@@ -42,13 +42,13 @@ const AboutPage = () => {
             </button>
           </div>
           <div className="concept-img">
-            <img src='interior/result.jpeg' alt="concept"></img>
+            <img src='https://images.squarespace-cdn.com/content/v1/596c0e3559cc68c91109f0d9/1659924920317-2104FUQH1GO09IXO6S2H/227A4932enfused.jpg?format=2500w' alt="concept"></img>
           </div>
         </div>
 
         <div className="con secondPart">
           <div className="concept-img">
-            <img src='interior/whatwedo.jpg' alt="concept"></img>
+            <img src='https://3.imimg.com/data3/IP/CU/MY-11666350/interior-design-500x500.jpg' alt="concept"></img>
           </div>
           <div className="c-text">
             <h1>What We Do</h1>
